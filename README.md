@@ -1,1 +1,3 @@
-"# ember-analyzer-2" 
+Final (train vs. test) graphs for Decision Tree: https://github.com/galencolin/ember-analyzer-2/tree/main/2020-10-28%2015%EA%9E%8918%EA%9E%8935%20(runember)%20-%20Decision%20Tree
+Final (train vs. test) graphs for LightGBM: https://github.com/galencolin/ember-analyzer-2/tree/main/2020-10-28%2015%EA%9E%8939%EA%9E%8921%20(runember)%20-%20LightGBM
+Final "overview" (running all models, taking test evaluations): 
