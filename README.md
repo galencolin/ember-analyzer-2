@@ -5,3 +5,5 @@ Final (train vs. test) graphs for LightGBM: https://github.com/galencolin/ember-
 Final "overview" (running all models, taking test evaluations): https://github.com/galencolin/ember-analyzer-2/tree/main/2020-10-27%2021%EA%9E%8955%EA%9E%8923%20(runember)%20-%20Final%20overview
 
 Final "subset of full history": https://github.com/galencolin/ember-analyzer-2/tree/main/2020-11-12%2023%EA%9E%8926%EA%9E%8916%20(runember)%20-%20history%20subset
+
+// change this to be the most recent one with better-looking graphs
