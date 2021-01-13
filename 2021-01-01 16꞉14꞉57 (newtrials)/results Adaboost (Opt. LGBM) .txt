@@ -1,0 +1,16 @@
+Adaboost (Opt. LGBM)
+AdaBoostClassifier(base_estimator=LGBMClassifier(bagging_fraction=1.0,
+                                                 boosting='gbdt',
+                                                 feature_fraction=0.5,
+                                                 learning_rate=0.05,
+                                                 max_depth=15,
+                                                 min_data_in_leaf=50,
+                                                 num_iterations=1000,
+                                                 num_leaves=2048,
+                                                 objective='binary'))
+
+Metrics: ['Accuracy', 'AUC', 'Recall', 'Precision', 'F1']
+Train:   [0.9357181818181817, 0.9846142674127953, 0.9387516942397017, 0.9395554508846679, 0.93907476623201]
+Test:    [0.9202818181818182, 0.9200175366984089, 0.917766623624001, 0.9326349753901282, 0.9247570580739275]
+Rel.:    [0.016475229430443838, 0.06560250276453607, 0.022384164626335662, 0.007350566073234816, 0.01521721493596625]
+Abs.:    [0.015436363636363611, 0.06459673071438626, 0.020985070615700773, 0.0069204754945396685, 0.014317708158082525]
