@@ -1,0 +1,12 @@
+Size: 5
+
+['Training data', 'Testing data (11-12)']
+
+CB default (accuracy): [0.5, 0.7]
+
+CB default (auc): [0.45, 0.6666666666666666]
+
+CB default (precision): [0.38333333333333336, 0.6666666666666666]
+
+CB default (recall): [0.36666666666666664, 0.5]
+
